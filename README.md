@@ -1,1 +1,1 @@
-# Portfolio-Project-SQL-PYTHON
+This is an end-to-end data analytics project using Python and SQL. I’ll start by downloading a dataset from Kaggle with the Kaggle API, then perform data processing and cleaning using pandas. After that, I'll load the cleaned data into SQL Server and use SQL to answer key questions and gain insights from the data.
